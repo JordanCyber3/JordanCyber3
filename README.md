@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Jonathann Jordan 👨‍💻.
 
-Sou um **Analista de Segurança Ofensiva (Junior)** e **Analista de Dados**. Meu foco é Red Team, desenvolvimento de exploits e automação de segurança. Atualmente, curso ADS e dedico meus estudos à exploração manual de vulnerabilidades e segurança de baixo nível.
+Sou um **Analista de Segurança Ofensiva (Junior)** e **Analista de Dados**. Meu foco é Red Team, desenvolvimento de exploits e automação de segurança. Atualmente, curso ADS na Estácio e dedico meus estudos à exploração manual de vulnerabilidades, engenharia reversa e segurança de baixo nível.
 
 ---
 
@@ -17,9 +17,9 @@ Sou um **Analista de Segurança Ofensiva (Junior)** e **Analista de Dados**. Meu
 ![SQLi](https://img.shields.io/badge/SQL_Injection-00758F?style=for-the-badge&logo=mysql&logoColor=white) ![XSS](https://img.shields.io/badge/XSS-FF4B4B?style=for-the-badge&logo=owasp&logoColor=white) ![IDOR](https://img.shields.io/badge/IDOR-4CAF50?style=for-the-badge&logo=securityscorecard&logoColor=white) ![RCE](https://img.shields.io/badge/RCE-CC0000?style=for-the-badge&logo=target&logoColor=white) ![Shellshock](https://img.shields.io/badge/Shellshock-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Exploitation & Low Level**
-> Pesquisa de vulnerabilidades de memória e desenvolvimento de exploits.
+> Pesquisa de vulnerabilidades de memória, engenharia reversa e desenvolvimento de exploits.
 
-![Buffer Overflow](https://img.shields.io/badge/Buffer_Overflow-D32F2F?style=for-the-badge&logo=hack-the-box&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-2E3C43?style=for-the-badge&logo=assembly&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Buffer Overflow](https://img.shields.io/badge/Buffer_Overflow-D32F2F?style=for-the-badge&logo=hack-the-box&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-2E3C43?style=for-the-badge&logo=assembly&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Immunity Debugger](https://img.shields.io/badge/Immunity_Debugger-800080?style=for-the-badge&logo=skyliner&logoColor=white)
 
 **Backend e Scripting**
 > Automação de ferramentas e desenvolvimento de APIs seguras.
@@ -29,6 +29,13 @@ Sou um **Analista de Segurança Ofensiva (Junior)** e **Analista de Dados**. Meu
 **Infraestrutura e Ferramentas**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🛡️ Projetos em Destaque
+
+* **[NetServer-RCE-Exploit](https://github.com/JordanCyber3/NetServer-RCE-Exploit):** Desenvolvimento de exploit para Buffer Overflow (Stack-based) com foco em manipulação manual de memória, controle de EIP e criação de payloads para RCE. Desenvolvido em **Python** e **C++**.
+* **WhoisGhost:** Ferramenta em Python para reconhecimento (OSINT) e consulta automatizada de informações WHOIS.
 
 ---
 
