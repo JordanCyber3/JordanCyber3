@@ -28,17 +28,9 @@ Sou um **Analista de Segurança Ofensiva (Junior)** e **Analista de Dados**. Meu
 
 **Infraestrutura e Ferramentas**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-### 🛡️ Projetos em Destaque
-
-* **[NetServer-RCE-Exploit](https://github.com/JordanCyber3/NetServer-RCE-Exploit):** Desenvolvimento de exploit para Buffer Overflow (Stack-based) com foco em manipulação manual de memória, controle de EIP e criação de payloads para RCE. Desenvolvido em **Python** e **C++**.
-* **WhoisGhost:** Ferramenta em Python para reconhecimento (OSINT) e consulta automatizada de informações WHOIS.
-
----
-
 ### 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathann-jordan-cyber/)
